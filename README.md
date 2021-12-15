@@ -1,11 +1,11 @@
 # target_crawler
 
-install dependencies:
+## install dependencies:
 ```console
-pip intall -r requirements.txt
+pip install -r requirements.txt
 ```
 
-start crawler:
+## start crawler:
 ```console
 scrapy crawl target_crawler
 ```
