@@ -1,2 +1,7 @@
 # target_crawler
-test task
+
+install dependencies:
+pip intall -r requirements.txt
+
+start crawler:
+scrapy crawl target_crawler
